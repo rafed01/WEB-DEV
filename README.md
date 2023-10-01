@@ -30,4 +30,4 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 
-Co developped by rafed01 and Coderberg
+## Co developped by rafed01 and Coderberg
